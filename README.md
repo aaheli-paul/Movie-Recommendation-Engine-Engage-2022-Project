@@ -80,8 +80,9 @@ Make sure to install / import the following libraries to your python environment
 ```
 
 <br>
+
 After downloading source code files from this repo, perform the following steps:
-<br>
+<br><br>
 
 1. Open *get_recommendation.ipynb* jupyter notebook file and change the location of datasets in the following visible lines of code :
 
