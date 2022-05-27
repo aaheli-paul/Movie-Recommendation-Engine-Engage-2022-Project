@@ -36,6 +36,13 @@ The following were the factors kept in mind while selecting the dataset :
 - Different and diverse attributes (to facilitate content-based filtering approach)
 - Manageable computational load
 
+#### Project Flow :
+1. Dataset Analysis
+2. Data Pre-processing
+3. Model Building (using text vectorization and cosine similarity)
+4. Model Testing
+5. Establishing web connection (using streamlit)
+
 > Credits: https://www.netflixprize.com/rules.html
 
 #### The goal of this project is to develop a recomendation system [#DataScience](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) for Netflix.
