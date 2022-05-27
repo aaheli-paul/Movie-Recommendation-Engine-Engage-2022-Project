@@ -8,6 +8,7 @@ Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2
 
 ### Challenge - 3 : *ALGORITHMS* 
 
+<!-- ABOUT THE PROJECT -->
 #### **_Problem Description_** : 
 Sorting Algorithms play an important role in recommendation engines. By the end of the project, the following questions should be answered :
 - What role is played by sorting algorithms in recommendation engine.
@@ -15,6 +16,7 @@ Sorting Algorithms play an important role in recommendation engines. By the end 
 
 In this project, i have implemented Recommendation Engine for Movies.
 
+<!-- APPROACH : WHAT AND WHY -->
 #### **_Answering the questions_** :
 > Different approaches, choosing an approach and why.
 
@@ -28,6 +30,7 @@ My objective was to implement an approach that would be :
 - avoid cold start to the problem
 Therefore, content-based filtering approach has been used in this project.
 
+<!-- PROJECT PLANNING AND TRAJECTORY -->
 #### _Selecting the dataset_ :
 > Link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/discussion?select=tmdb_5000_movies.csv
 > The datasets are also available with this repo, in a folder titled *Datasets*
@@ -37,16 +40,43 @@ The following were the factors kept in mind while selecting the dataset :
 - Different and diverse attributes (to facilitate content-based filtering approach)
 - Manageable computational load
 
-#### Project Flow :
+#### _Project Flow_ :
 1. Dataset Analysis
 2. Data Pre-processing
 3. Model Building (using text vectorization and cosine similarity)
 4. Model Testing
 5. Establishing web connection (using streamlit)
 
-> Credits: https://www.netflixprize.com/rules.html
+<!-- INSTALLATIONS -->
 
-#### The goal of this project is to develop a recomendation system [#DataScience](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) for Netflix.
+## Getting Started
+To install and run the project on your local system, following are the requirements:
+
+### Prerequisites
+Make sure to install / import the following libraries to your python environment
+```sh
+  install ast
+  install nltk
+  install pickle
+```
+
+After downloading source code files from this repo, perform the following steps:
+
+1. Run and execute the *get_recommendation.ipynb* jupyter notebook file.
+
+```sh
+  npm install && npm start
+```
+> After completing the execution of this file, there will be two files downloaded to the main folder : movies_list.pkl, similarity.pkl
+
+> These files will be used during the execution of *app.py* file.
+
+2. Run the following command on command promt, to locally host the webpage
+
+```sh
+  streamlit run app.py
+```
+
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project.svg?logo=github&style=social)](https://github.com/aaheli-paul)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project.svg?logo=git&style=social)](https://github.com/aaheli-paul/)
