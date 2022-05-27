@@ -9,13 +9,14 @@ Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2
 ### Challenge - 3 : *ALGORITHMS* 
 
 #### Problem Description : 
-Sorting Algorithms play an important role in recommendation engines By the end of the project, the following questions should be answered :
+Sorting Algorithms play an important role in recommendation engines. By the end of the project, the following questions should be answered :
 - What role is played by sorting algorithms in recommendation engine.
 - Which sorting algorithm is used in this project and why?
 In this project, i have implemented Recommendation Engine for Movies.
 
 #### Answering the questions :
 > Different approaches, choosing an approach and why.
+
 To understand the role of sorting algorithms and make a choice, one should know the different types of filtering algorithms present. They are:
 1. Content-based filtering - In this, content is recommended to a user based on the past content-interaction of the same user.
 2. Collaborative filtering - In this, content is recommended to a user based on the similarity of that user's content-interaction to another user's content-interaction. Users with similar activities are recommeded similar contents.
@@ -29,6 +30,7 @@ Therefore, content-based filtering approach has been used in this project.
 #### Selecting the dataset :
 > Link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/discussion?select=tmdb_5000_movies.csv
 > The datasets are also available with this repo, in a folder titled *Datasets*
+
 The following were the factors kept in mind while selecting the dataset :
 - Relevant and useful data
 - Different and diverse attributes (to facilitate content-based filtering approach)
