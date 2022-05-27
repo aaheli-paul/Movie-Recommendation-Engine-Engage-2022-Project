@@ -33,6 +33,7 @@ Therefore, content-based filtering approach has been used in this project.
 <!-- PROJECT PLANNING AND TRAJECTORY -->
 #### _Selecting the dataset_ :
 > Link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/discussion?select=tmdb_5000_movies.csv
+
 > The datasets are also available with this repo, in a folder titled *Datasets*
 
 The following were the factors kept in mind while selecting the dataset :
@@ -62,16 +63,16 @@ Make sure to install / import the following libraries to your python environment
 
 After downloading source code files from this repo, perform the following steps:
 
-1. Run and execute the *get_recommendation.ipynb* jupyter notebook file.
+1. Run and execute the *get_recommendation.ipynb* jupyter notebook file or run the following command on command prompt:
 
 ```sh
-  npm install && npm start
+  python get_recommendation.ipynb
 ```
 > After completing the execution of this file, there will be two files downloaded to the main folder : movies_list.pkl, similarity.pkl
 
 > These files will be used during the execution of *app.py* file.
 
-2. Run the following command on command promt, to locally host the webpage
+2. Run the following command on command prompt, to locally host the webpage
 
 ```sh
   streamlit run app.py
