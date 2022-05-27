@@ -7,9 +7,11 @@ Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
 <br>
+
 ### Challenge - 3 : *ALGORITHMS* 
 
 <br>
+
 <!-- ABOUT THE PROJECT -->
 #### **_Problem Description_** : 
 <br>
@@ -24,6 +26,7 @@ In this project, i have implemented Recommendation Engine for Movies.
 <!-- APPROACH : WHAT AND WHY -->
 #### **_Answering the questions_** :
 <br>
+
 > Different approaches, choosing an approach and why.
 
 To understand the role of sorting algorithms and make a choice, one should know the different types of filtering algorithms present. They are:
@@ -77,6 +80,7 @@ Make sure to install / import the following libraries to your python environment
 
 <br>
 After downloading source code files from this repo, perform the following steps:
+<br>
 
 1. Open *get_recommendation.ipynb* jupyter notebook file and change the location of datasets in the following visible lines of code :
 
