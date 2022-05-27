@@ -91,7 +91,7 @@ After downloading source code files from this repo, perform the following steps:
   credits_df = pd.read_csv('C:/Users/Aaheli Paul/Movie-Recommendation-Engine-Engage-2022-Project/Datasets/tmdb_5000_credits.csv')
 ```
 
-<br><br>
+<br>
 
 2. Run and execute the *get_recommendation.ipynb* jupyter notebook file or run the following command on command prompt:
 
@@ -102,7 +102,7 @@ After downloading source code files from this repo, perform the following steps:
 
 > These files will be used during the execution of *app.py* file.
 
-<br><br>
+<br>
 
 3. Run the following command on command prompt, to locally host the webpage
 
