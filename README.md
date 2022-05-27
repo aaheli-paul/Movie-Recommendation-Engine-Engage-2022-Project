@@ -99,6 +99,7 @@ After downloading source code files from this repo, perform the following steps:
 > After completing the execution of this file, there will be two files downloaded to the main folder : movies_list.pkl, similarity.pkl
 
 > These files will be used during the execution of *app.py* file.
+<br><br>
 
 3. Run the following command on command prompt, to locally host the webpage
 
@@ -106,6 +107,7 @@ After downloading source code files from this repo, perform the following steps:
   streamlit run app.py
 ```
 
+<br>
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project.svg?logo=github&style=social)](https://github.com/aaheli-paul)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project.svg?logo=git&style=social)](https://github.com/aaheli-paul/)
