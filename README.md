@@ -16,6 +16,8 @@ Sorting Algorithms play an important role in recommendation engines. By the end 
 
 In this project, i have implemented Recommendation Engine for Movies.
 
+<br><br><br>
+
 <!-- APPROACH : WHAT AND WHY -->
 #### **_Answering the questions_** :
 > Different approaches, choosing an approach and why.
