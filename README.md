@@ -1,7 +1,7 @@
 # Movie-Recommendation-Engine-Engage-2022-Project
 Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2022
 
-[![Generic badge](https://img.shields.io/badge/Engage-2022-Red.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
+[![Generic badge](https://img.shields.io/badge/Engage-2022-Red.svg?style=for-the-badge)](https://acehacker.com/microsoft/engage2022/index.html) 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaheli-paul) 
 [![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
@@ -12,6 +12,7 @@ Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2
 Sorting Algorithms play an important role in recommendation engines. By the end of the project, the following questions should be answered :
 - What role is played by sorting algorithms in recommendation engine.
 - Which sorting algorithm is used in this project and why?
+
 In this project, i have implemented Recommendation Engine for Movies.
 
 #### Answering the questions :
