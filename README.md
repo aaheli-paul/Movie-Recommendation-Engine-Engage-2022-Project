@@ -1,18 +1,38 @@
 # Movie-Recommendation-Engine-Engage-2022-Project
 Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2022
 
-# Movie-Recommendation-Engine
-
 [![Generic badge](https://img.shields.io/badge/Engage-2022-Red.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaheli-paul) 
 [![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
-### Business Problem 
-### Problem Description 
-Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. And while Cinematch is doing pretty well, it can always be made better.
+### Challenge - 3 : *ALGORITHMS* 
 
-Now there are a lot of interesting alternative approaches to how Cinematch works that netflix haven’t tried. Some are described in the literature, some aren’t. We’re curious whether any of these can beat Cinematch by making better predictions. Because, frankly, if there is a much better approach it could make a big difference to our customers and our business.
+#### Problem Description : 
+Sorting Algorithms play an important role in recommendation engines By the end of the project, the following questions should be answered :
+- What role is played by sorting algorithms in recommendation engine.
+- Which sorting algorithm is used in this project and why?
+In this project, i have implemented Recommendation Engine for Movies.
+
+#### Answering the questions :
+> Different approaches, choosing an approach and why.
+To understand the role of sorting algorithms and make a choice, one should know the different types of filtering algorithms present. They are:
+1. Content-based filtering - In this, content is recommended to a user based on the past content-interaction of the same user.
+2. Collaborative filtering - In this, content is recommended to a user based on the similarity of that user's content-interaction to another user's content-interaction. Users with similar activities are recommeded similar contents.
+3. Hybrid filtering - This is a combination of Content-based and Collaborative filtering.
+
+My objective was to implement an approach that would be :
+- relevant to the user (content similarity)
+- avoid cold start to the problem
+Therefore, content-based filtering approach has been used in this project.
+
+#### Selecting the dataset :
+> Link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/discussion?select=tmdb_5000_movies.csv
+> The datasets are also available with this repo, in a folder titled *Datasets*
+The following were the factors kept in mind while selecting the dataset :
+- Relevant and useful data
+- Different and diverse attributes (to facilitate content-based filtering approach)
+- Manageable computational load
 
 > Credits: https://www.netflixprize.com/rules.html
 
