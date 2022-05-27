@@ -6,12 +6,13 @@ Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2
 [![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
+<br>
 ### Challenge - 3 : *ALGORITHMS* 
 
-
-<br><br>
+<br>
 <!-- ABOUT THE PROJECT -->
 #### **_Problem Description_** : 
+<br>
 Sorting Algorithms play an important role in recommendation engines. By the end of the project, the following questions should be answered :
 - What role is played by sorting algorithms in recommendation engine.
 - Which sorting algorithm is used in this project and why?
@@ -22,6 +23,7 @@ In this project, i have implemented Recommendation Engine for Movies.
 <br><br>
 <!-- APPROACH : WHAT AND WHY -->
 #### **_Answering the questions_** :
+<br>
 > Different approaches, choosing an approach and why.
 
 To understand the role of sorting algorithms and make a choice, one should know the different types of filtering algorithms present. They are:
@@ -38,6 +40,7 @@ Therefore, content-based filtering approach has been used in this project.
 <br><br>
 <!-- PROJECT PLANNING AND TRAJECTORY -->
 #### _Selecting the dataset_ :
+<br>
 > Link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/discussion?select=tmdb_5000_movies.csv
 
 > The datasets are also available with this repo, in a folder titled *Datasets*
@@ -47,7 +50,7 @@ The following were the factors kept in mind while selecting the dataset :
 - Different and diverse attributes (to facilitate content-based filtering approach)
 - Manageable computational load
 
-<br>
+
 #### _Project Flow_ :
 1. Dataset Analysis
 2. Data Pre-processing
@@ -61,6 +64,7 @@ The following were the factors kept in mind while selecting the dataset :
 <!-- INSTALLATIONS -->
 
 ## Getting Started
+<br>
 To install and run the project on your local system, following are the requirements:
 
 ### Prerequisites
@@ -71,6 +75,7 @@ Make sure to install / import the following libraries to your python environment
   install pickle
 ```
 
+<br>
 After downloading source code files from this repo, perform the following steps:
 
 1. Open *get_recommendation.ipynb* jupyter notebook file and change the location of datasets in the following visible lines of code :
