@@ -1,11 +1,9 @@
 # Movie-Recommendation-Engine-Engage-2022-Project
 Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2022
 
-[![Engage 2022](https://forthebadge.com/images/badges/Engage-2022.svg)](https://github.com/aaheli-paul)
-
 # Movie-Recommendation-Engine
 
-[![Generic badge](https://img.shields.io/badge/Datascience-Beginners-Red.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
+[![Generic badge](https://img.shields.io/badge/Engage-2022-Red.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
 [![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaheli-paul) 
 [![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)](https://github.com/aaheli-paul/Movie-Recommendation-Engine-Engage-2022-Project) 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
