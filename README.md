@@ -44,6 +44,7 @@ Therefore, content-based filtering approach has been used in this project.
 <!-- PROJECT PLANNING AND TRAJECTORY -->
 #### _Selecting the dataset_ :
 <br>
+
 > Link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/discussion?select=tmdb_5000_movies.csv
 
 > The datasets are also available with this repo, in a folder titled *Datasets*
