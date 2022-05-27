@@ -8,6 +8,8 @@ Repository for Challenge - 3 (Algorithms) project made during Microsoft Engage 2
 
 ### Challenge - 3 : *ALGORITHMS* 
 
+
+<br><br>
 <!-- ABOUT THE PROJECT -->
 #### **_Problem Description_** : 
 Sorting Algorithms play an important role in recommendation engines. By the end of the project, the following questions should be answered :
@@ -16,8 +18,8 @@ Sorting Algorithms play an important role in recommendation engines. By the end 
 
 In this project, i have implemented Recommendation Engine for Movies.
 
-<br><br><br>
 
+<br><br>
 <!-- APPROACH : WHAT AND WHY -->
 #### **_Answering the questions_** :
 > Different approaches, choosing an approach and why.
@@ -32,6 +34,8 @@ My objective was to implement an approach that would be :
 - avoid cold start to the problem
 Therefore, content-based filtering approach has been used in this project.
 
+
+<br><br>
 <!-- PROJECT PLANNING AND TRAJECTORY -->
 #### _Selecting the dataset_ :
 > Link to the dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/discussion?select=tmdb_5000_movies.csv
@@ -43,6 +47,7 @@ The following were the factors kept in mind while selecting the dataset :
 - Different and diverse attributes (to facilitate content-based filtering approach)
 - Manageable computational load
 
+<br>
 #### _Project Flow_ :
 1. Dataset Analysis
 2. Data Pre-processing
@@ -50,6 +55,9 @@ The following were the factors kept in mind while selecting the dataset :
 4. Model Testing
 5. Establishing web connection (using streamlit)
 
+
+
+<br><br><br>
 <!-- INSTALLATIONS -->
 
 ## Getting Started
