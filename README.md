@@ -105,7 +105,7 @@ After downloading source code files from this repo, perform the following steps:
 
 <br>
 
-3. Run the following command on command prompt, to locally host the webpage
+3. After entering the source code folder, run the following command on command prompt, to locally host the webpage
 
 ```sh
   streamlit run app.py
