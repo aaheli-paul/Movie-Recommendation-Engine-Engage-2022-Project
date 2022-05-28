@@ -74,9 +74,10 @@ To install and run the project on your local system, following are the requireme
 ### Prerequisites
 Make sure to install / import the following libraries to your python environment
 ```sh
-  install ast
-  install nltk
-  install pickle
+  pip install ast
+  pip install nltk
+  pip install pickle
+  pip install streamlit
 ```
 
 <br>
