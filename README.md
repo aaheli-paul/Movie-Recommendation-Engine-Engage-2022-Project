@@ -72,7 +72,7 @@ The following were the factors kept in mind while selecting the dataset :
 To install and run the project on your local system, following are the requirements:
 
 ### Prerequisites
-Make sure to install / import the following libraries to your python environment
+Make sure you have the following libraries installed in your python environment, using the following commands :
 ```sh
   pip install ast
   pip install nltk
@@ -99,7 +99,7 @@ After downloading source code files from this repo, perform the following steps:
 ```sh
   python get_recommendation.ipynb
 ```
-> After completing the execution of this file, there will be two files downloaded to the main folder : movies_list.pkl, similarity.pkl
+> After completing the execution of this file, there will be two files downloaded to the main folder : movie_list.pkl, similarity.pkl
 
 > These files will be used during the execution of *app.py* file.
 
